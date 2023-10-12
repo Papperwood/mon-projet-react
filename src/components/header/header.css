@@ -12,6 +12,12 @@ i {
   margin-right: 10px;
 }
 
+.navbar-content {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 /*----------bootstrap-navbar-css------------*/
 .navbar-logo {
   padding: 15px;
